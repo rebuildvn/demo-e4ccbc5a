@@ -1,0 +1,3 @@
+User-agent: *
+# Rebuild demo: not indexed until it moves to the customer's own domain.
+Disallow: /

@@ -1,0 +1,12 @@
+/* Measured design of the business's current website (rebuild.vn design tokens). */
+:root {
+  --color-primary: #0000ee;
+  --color-background: #eeeeee;
+  --color-bg: #eeeeee;
+  --color-text: #000000;
+  --color-link: #0000ee;
+  --font-body: system-ui;
+  --font: system-ui;
+  --font-heading: system-ui;
+  --font-size-body: 14px;
+}
